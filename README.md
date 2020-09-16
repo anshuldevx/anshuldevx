@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on javascript or java projects
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about javascript/java or anything tech related
-- 📫 How to reach me: LinkedIn @anshul-chauhan-97383670
+- 📫 How to reach me: [LinkedIn @anshul-chauhan-97383670](https://www.linkedin.com/in/anshul-chauhan-97383670/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but I love to eat…
 
