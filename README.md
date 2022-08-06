@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on java and javascript tech stack 
 - 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate on javascript or java projects
-- 🤔 I’m looking for help with peer to peer technologies.
+- 🤔 I’m looking for help with peer to peer technologies
 - 💬 Ask me about javascript/java or anything design related
 - 📫 How to reach me: [LinkedIn @anshul-chauhan-97383670](https://www.linkedin.com/in/anshul-chauhan-97383670/)
 - 😄 Pronouns: He/His
