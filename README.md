@@ -1,6 +1,6 @@
 ### Hola, I'm Anshul Chauhan! 👋
 
-- 🔭 I’m currently working on nodejs,reactnative,typescript
+- 🔭 I’m currently working on java,javascript and web3 technologies
 - 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate on javascript or java projects
 - 🤔 I’m looking for help with VelocityX documentation.
