@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a dedicated full-stack developer on a journey 
 
 ## 🚀 Featured Projects
 
-<div align="center" style="padding: 20px; border-radius: 10px; border: 2px solid #0366d6; margin: 20px 0;">
+<div align="left" style="padding: 20px; border-radius: 10px; border: 2px solid #0366d6; margin: 20px 0;">
 
 ### 🌟 [Project 1](https://github.com/anshuldevx/project1)
 _A short, compelling summary about what this project does and its tech stack._
