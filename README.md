@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I bring a decade of experience designing and devel
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| 🌟 [Thrift Marketplace](https://www.thriftguideus.com/) | Marketplace for thrift enthusiasts to buy and sell second hand goods. Fosters a community of mindful shoppers passionate about sustainability. | [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://www.thriftguideus.com/) |
-| 🌟 [Marketplace for Real Estate Services](https://ambitious-river-07b28f600.4.azurestaticapps.net/) | Comprehensive web app connecting clients with real estate service providers. | [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://ambitious-river-07b28f600.4.azurestaticapps.net/) |
-| 🌟 [Marketing Website for Clinic](https://www.sharanyacare.com/) | High-converting marketing website with patient management support. | [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://www.sharanyacare.com/) |
+| [Thrift Marketplace](https://www.thriftguideus.com/) | Marketplace for thrift enthusiasts to buy and sell second hand goods. Fosters a community of mindful shoppers passionate about sustainability. | [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://www.thriftguideus.com/) |
+| [Marketplace for Real Estate Services](https://ambitious-river-07b28f600.4.azurestaticapps.net/) | Comprehensive web app connecting clients with real estate service providers. | [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://ambitious-river-07b28f600.4.azurestaticapps.net/) |
+| [Marketing Website for Clinic](https://www.sharanyacare.com/) | High-converting marketing website with patient management support. | [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://www.sharanyacare.com/) |
 
 ## 💻 Tech Stack
 
