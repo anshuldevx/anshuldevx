@@ -19,18 +19,24 @@ Welcome to my GitHub profile! I'm a dedicated full-stack developer on a journey 
 
 ## 🚀 Featured Projects
 
-<div align="center" style="padding: 20px; border-radius: 10px; border: 2px solid #0366d6; margin: 20px 0;">
+---
 
-### 🌟 [Project 1 : Thrift Marketplace](https://www.thriftguideus.com/)
-This project was developed as a marketplace for thrift enthusiasts to buy and sell second hand goods. It fosters a community of mindful shoppers passionate about sustainability
+### 🌟 **[Thrift Marketplace 🚀](https://www.thriftguideus.com/)**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
 
-### 🌟 [Project 2](https://github.com/anshuldevx/project2)
+This project was developed as a marketplace for thrift enthusiasts to buy and sell second hand goods. It fosters a community of mindful shoppers passionate about sustainability.
+
+---
+
+### 🌟 [Project 2](https://github.com/anshuldevx/project2)  
 _What makes this project unique? Mention that here along with key technologies._
 
-### 🌟 [Project 3](https://github.com/anshuldevx/project3)
+---
+
+### 🌟 [Project 3](https://github.com/anshuldevx/project3)  
 _A short description explaining the project's problem statement and solution._
 
-</div>
+---
 
 ## 💻 Tech Stack
 
