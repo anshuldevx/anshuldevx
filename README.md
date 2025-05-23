@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I bring a decade of experience designing and devel
 ## 👨‍💻 About Me
 
 - 🥇 **Among top 10% freelancer on [Fiverr](https://www.fiverr.com/anshulchauha?public_mode=true)** — Feel free to check out my client reviews.
-- 🚀 Full-stack developer passionate about building scalable, user-centric web and mobile applications.
+- 🚀 Full-stack developer passionate about building user-centric applications.
 - 🧠 Constantly exploring new technologies — currently focused on AI.
 - 🤝 Open to collaboration on innovative side projects, startups, and freelance gigs.
 - 🌍 Based in India, working remotely with clients worldwide.
@@ -25,6 +25,20 @@ Welcome to my GitHub profile! I bring a decade of experience designing and devel
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
 
 This project was developed as a marketplace for thrift enthusiasts to buy and sell second hand goods. It fosters a community of mindful shoppers passionate about sustainability.
+
+---
+
+### 🌟 **[Marketplace for real estate services](https://ambitious-river-07b28f600.4.azurestaticapps.net/)**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
+
+Developed a comprehensive web application that serves as a centralized marketplace connecting clients with a range of real estate service providers.
+
+---
+
+### 🌟 **[Marketing Website for Clinic](https://www.sharanyacare.com/)**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
+
+A highly coverting marketing website has been created for a clinic. Support for patient management will also be provided.
 
 ---
 
