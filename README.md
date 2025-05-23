@@ -21,38 +21,21 @@ Welcome to my GitHub profile! I bring a decade of experience designing and devel
 
 ---
 
-### 🌟 **[Thrift Marketplace](https://www.thriftguideus.com/)**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
+### 🌟 [Thrift Marketplace](https://www.thriftguideus.com/) [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://www.thriftguideus.com/)
 
 This project was developed as a marketplace for thrift enthusiasts to buy and sell second hand goods. It fosters a community of mindful shoppers passionate about sustainability.
 
 ---
 
-### 🌟 **[Marketplace for real estate services](https://ambitious-river-07b28f600.4.azurestaticapps.net/)**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
+### 🌟 [Marketplace for Real Estate Services](https://ambitious-river-07b28f600.4.azurestaticapps.net/) [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://ambitious-river-07b28f600.4.azurestaticapps.net/)
 
 Developed a comprehensive web application that serves as a centralized marketplace connecting clients with a range of real estate service providers.
 
 ---
 
-### 🌟 **[Marketing Website for Clinic](https://www.sharanyacare.com/)**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
+### 🌟 [Marketing Website for Clinic](https://www.sharanyacare.com/) [![Demo](https://img.shields.io/badge/demo-%E2%86%92-brightgreen?style=flat&logo=web&logoColor=white)](https://www.sharanyacare.com/)
 
-A highly coverting marketing website has been created for a clinic. Support for patient management will also be provided.
-
----
-
-### 🌟 **[Marketplace for real estate services](https://ambitious-river-07b28f600.4.azurestaticapps.net/)**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
-
-Developed a comprehensive web application that serves as a centralized marketplace connecting clients with a range of real estate service providers.
-
----
-
-### 🌟 **[Marketing Website for Clinic](https://www.sharanyacare.com/)**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
-
-A highly coverting marketing website has been created for a clinic. Support for patient management will also be provided.
+A highly converting marketing website created for a clinic, with support for patient management.
 
 ---
 
