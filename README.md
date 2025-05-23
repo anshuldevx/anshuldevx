@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I bring a decade of experience designing and devel
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your_twitter)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@your_youtube)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuldevx)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshuldevx)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anshuldevx)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuldevx)
 
 ## 🚀 Featured Projects
 
