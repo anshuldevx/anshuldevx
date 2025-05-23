@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Anshul Chauhan
 
-Welcome to my GitHub profile! I'm a dedicated full-stack developer on a journey of continuous learning and growth. With a passion for crafting elegant and functional web solutions, I'm eager to explore new technologies, expand my skill set, and collaborate on exciting projects.
+Welcome to my GitHub profile! I bring a decade of experience designing and developing robust distributed systems. As a full-stack developer, I specialize in building end-to-end web and mobile applications from the ground up.
 
 ## 👨‍💻 About Me
 
 - 🥇 **Among top 10% freelancer on [Fiverr](https://www.fiverr.com/anshulchauha?public_mode=true)** — Feel free to check out my client reviews.
-- 🚀 Full-stack developer passionate about building scalable, user-centric web applications.
-- 🧠 Constantly exploring new technologies — currently focused on AI integrations and DevOps tools.
+- 🚀 Full-stack developer passionate about building scalable, user-centric web and mobile applications.
+- 🧠 Constantly exploring new technologies — currently focused on AI.
 - 🤝 Open to collaboration on innovative side projects, startups, and freelance gigs.
 - 🌍 Based in India, working remotely with clients worldwide.
 
@@ -21,20 +21,24 @@ Welcome to my GitHub profile! I'm a dedicated full-stack developer on a journey 
 
 ---
 
-### 🌟 **[Thrift Marketplace 🚀](https://www.thriftguideus.com/)**  
+### 🌟 **[Thrift Marketplace](https://www.thriftguideus.com/)**  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
 
 This project was developed as a marketplace for thrift enthusiasts to buy and sell second hand goods. It fosters a community of mindful shoppers passionate about sustainability.
 
 ---
 
-### 🌟 [Project 2](https://github.com/anshuldevx/project2)  
-_What makes this project unique? Mention that here along with key technologies._
+### 🌟 **[Marketplace for real estate services](https://ambitious-river-07b28f600.4.azurestaticapps.net/)**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
+
+Developed a comprehensive web application that serves as a centralized marketplace connecting clients with a range of real estate service providers.
 
 ---
 
-### 🌟 [Project 3](https://github.com/anshuldevx/project3)  
-_A short description explaining the project's problem statement and solution._
+### 🌟 **[Marketing Website for Clinic](https://www.sharanyacare.com/)**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://www.thriftguideus.com/)
+
+A highly coverting marketing website has been created for a clinic. Support for patient management will also be provided.
 
 ---
 
