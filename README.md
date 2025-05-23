@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Anshul Chauhan
 
 Welcome to my GitHub profile! I'm a dedicated web developer on a journey of continuous learning and growth. With a passion for crafting elegant and functional web solutions, I'm eager to explore new technologies, expand my skill set, and collaborate on exciting projects.
 
@@ -9,23 +9,23 @@ Welcome to my GitHub profile! I'm a dedicated web developer on a journey of cont
 ## 🚀 Featured Projects
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; border: 2px solid #0366d6; margin: 20px 0;">
 
-### 🌟 Project 1: [Project Name](https://github.com/yourusername/project1)
+### 🌟 Project 1: [Project Name](https://github.com/anshuldevx/project1)
 A brief description of your project and what technologies you used.
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/project1?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/project1?style=social)
+![GitHub stars](https://img.shields.io/github/stars/anshuldevx/project1?style=social)
+![GitHub forks](https://img.shields.io/github/forks/anshuldevx/project1?style=social)
 
-### 🌟 Project 2: [Project Name](https://github.com/yourusername/project2)
+### 🌟 Project 2: [Project Name](https://github.com/anshuldevx/project2)
 A brief description of your project and what technologies you used.
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/project2?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/project2?style=social)
+![GitHub stars](https://img.shields.io/github/stars/anshuldevx/project2?style=social)
+![GitHub forks](https://img.shields.io/github/forks/anshuldevx/project2?style=social)
 
-### 🌟 Project 3: [Project Name](https://github.com/yourusername/project3)
+### 🌟 Project 3: [Project Name](https://github.com/anshuldevx/project3)
 A brief description of your project and what technologies you used.
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/project3?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/project3?style=social)
+![GitHub stars](https://img.shields.io/github/stars/anshuldevx/project3?style=social)
+![GitHub forks](https://img.shields.io/github/forks/anshuldevx/project3?style=social)
 
 </div>
 
@@ -44,9 +44,9 @@ A brief description of your project and what technologies you used.
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=anshuldevx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshuldevx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldevx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anshuldevx&icon=0&color=0)](https://visitcount.itsvg.in)
