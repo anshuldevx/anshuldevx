@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I bring a decade of experience designing and devel
 
 ## 👨‍💻 About Me
 
-- 🥇 **Among top 10% freelancer on [Fiverr](https://www.fiverr.com/anshulchauha?public_mode=true)** — Feel free to check out my client reviews.
+- 🥇 **Among top 10% freelancers worldwide on [Fiverr](https://www.fiverr.com/anshulchauha?public_mode=true)** — Feel free to check out my client reviews.
 - 🚀 Full-stack developer passionate about building user-centric applications.
 - 🧠 Constantly exploring new technologies — currently focused on AI.
 - 🤝 Open to collaboration on innovative side projects, startups, and freelance gigs.
