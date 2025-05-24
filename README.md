@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anshul Chauhan
 
-Welcome to my GitHub profile! I bring a decade of experience designing and developing robust distributed systems. As a full-stack developer, I specialize in building end-to-end web and mobile applications from the ground up.
+Welcome to my GitHub profile! I bring a decade of experience designing and developing robust distributed systems. As a full-stack AI developer, I specialize in building end-to-end web and mobile applications from the ground up.
 
 ## 👨‍💻 About Me
 
